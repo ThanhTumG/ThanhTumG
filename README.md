@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Language Learning Platform](https://github.com/ThanhTumG/language-learning-platform)
 
-- 🌱 I’m currently learning **Next.js framework**
+- 🌱 I’m currently learning **Next.js framework**, **C# Language**, 
 
 - 👨‍💻 All of my projects are available at [https://github.com/ThanhTumG?tab=repositories](https://github.com/ThanhTumG?tab=repositories)
 
